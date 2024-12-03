@@ -30,7 +30,7 @@ Shee'z Era is a conceptual online store offering affordable, aesthetic products 
 ![Cover Page](Screenshot 2024-12-03 093743.png)
 
 ### About & USP Page
-![About & USP Page](Screenshot)
+![About & USP Page](https://github.com/pushpita02/Shee-z-Era-Pitch-Deck/blob/main/Screenshot%202024-12-03%20093716.png)
 
 ---
 
