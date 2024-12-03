@@ -30,7 +30,7 @@ Shee'z Era is a conceptual online store offering affordable, aesthetic products 
 ![Cover Page](Screenshot 2024-12-03 093743.png)
 
 ### About & USP Page
-![About & USP Page](Screenshot 2024-12-03 093716.png)
+![About & USP Page](Screenshot)
 
 ---
 
